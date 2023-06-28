@@ -14,3 +14,8 @@ The transformation can be represented by aligning two alphabets; the cipher alph
 
 For instance, here is a Caesar cipher using a left rotation of three places, equivalent to a right shift of 23 (the shift parameter is used as the key):
 
+Plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Cipher: XYZABCDEFGHIJKLMNOPQRSTUVW
+
+When encrypting, a person looks up each letter of the message in the “plain” line and writes down the corresponding letter in the “cipher” line.
