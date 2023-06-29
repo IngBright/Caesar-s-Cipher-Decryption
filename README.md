@@ -19,3 +19,7 @@ Plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Cipher: XYZABCDEFGHIJKLMNOPQRSTUVW
 
 When encrypting, a person looks up each letter of the message in the “plain” line and writes down the corresponding letter in the “cipher” line.
+
+# author
+
+Bright Xorla Sefogah
