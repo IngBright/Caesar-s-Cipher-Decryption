@@ -22,4 +22,4 @@ When encrypting, a person looks up each letter of the message in the “plain”
 
 # author
 
-Bright Xorla Sefogah.
+Bright Xorla Sefogah
